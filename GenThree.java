@@ -1,4 +1,4 @@
-public class Gen3 {
+public class GenThree {
 	public static void main(String[] args) {
 		int a = Integer.parseInt(args[0]); // get param a from args and cast to int
 		int b = Integer.parseInt(args[1]); // get param b from args and cast to int
