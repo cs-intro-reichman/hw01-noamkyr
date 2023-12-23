@@ -21,7 +21,7 @@ public class Triangle {
 
 		boolean checkFinal = check1 && check2 && check3; // if all the check are good the value of checkFinal is true
 
-		System.out.println(a+", "+ b+", "+c+": "+ checkFinal); // print the result as requested
+		System.out.println(a + ", " + b + ", " + c + ": " + checkFinal); // print the result as requested
 
 
 	}

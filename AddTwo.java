@@ -7,7 +7,7 @@ public class AddTwo {
 		int a = Integer.parseInt(args[0]);
 		int b = Integer.parseInt(args[1]);
 
-		int sum = a+b; // set to a new variable the v value of a + b
+		int sum = a + b; // set to a new variable the v value of a + b
 
 		System.out.println(a+ " + " +b + " = "+ sum); // print the result as requested
 
